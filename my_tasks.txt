@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+osborn, play tennis, work out , 28 nov 2022, 28 nov 2023, No
+kingsley, play ball, work out, 14 nov 2022, 28 nov 2023, Yes
+susan, being beautiful, hot hot hot, 12 dec 2022, 28 nov 2023, Yes
+jason, being handsome, very handsome, 15 nov 2022, 28 nov 2023, Yes
+ken, being nasty, very nasty to perople, 12 dec 2022, 28 nov 2023, No
+kingsley, being happy, make me happy, 25 feb 2022, 28 nov 2025, Yes
